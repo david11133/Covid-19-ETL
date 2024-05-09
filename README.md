@@ -29,6 +29,3 @@ In the analysis phase, the following SQL queries were executed to derive insight
 - Top 5 countries with the most/least recoveries.
 - Date in March with the most confirmed/deaths/recoveries.
 
-## Project Author
-Sanjoy Biswas
-
